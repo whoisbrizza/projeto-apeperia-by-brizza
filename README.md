@@ -7,7 +7,7 @@ Repositório com o objetivo de registrar meu progresso no Programa Desenvolve 20
 Media Query
 
 ## Aprendizados 
-
+---
 Criação de estilos diferentes para diversos dispositivos com media queries
 ---
 Adaptar estrutura e conteúdo para layouts diferentes
