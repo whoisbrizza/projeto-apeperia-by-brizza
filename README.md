@@ -6,12 +6,10 @@ Repositório com o objetivo de registrar meu progresso no Programa Desenvolve 20
 
 Media Query
 
-## Aprendizados 
----
+## Aprendizados: 
+
 Criação de estilos diferentes para diversos dispositivos com media queries
----
 Adaptar estrutura e conteúdo para layouts diferentes
----
 Progredir de um layout mobile até um layout para desktop (Mobile First)
 
 ## Tópicos abordados:
